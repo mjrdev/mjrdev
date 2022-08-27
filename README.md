@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" align="right" width="430px"></img>
+<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" align="right" width="410px"></img>
 
 # 😉 Opa, que legal você aqui!
 
@@ -6,7 +6,6 @@
   <a href = "https://github.com/risoflorais">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Twitter Badge"/>
 </div>
