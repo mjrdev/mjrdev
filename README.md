@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" align="right" width="400px"></img>
+<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" align="right" width="430px"></img>
 
 # 😉 Opa, que legal você aqui!
 
