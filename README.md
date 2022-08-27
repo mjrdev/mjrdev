@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-👨‍💻 Desenvolvedor FullStack PHP & JavaScript
-💙 Amante da Tecnológia e Games
+ - 👨‍💻 Desenvolvedor FullStack PHP & JavaScript
+ - 💙 Amante da Tecnológia e Games
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
