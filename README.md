@@ -4,10 +4,13 @@
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/manoel-j%C3%BAnior-mjr-594648245/">
+  https://mjrdev.github.io/portfolio/
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Twitter Badge"/>
+  <a href = "https://mjrdev.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
  - 👨‍💻 Desenvolvedor FullStack PHP & JavaScript
