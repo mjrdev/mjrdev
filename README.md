@@ -12,7 +12,7 @@
   </a>
 </div>
 
- - 👨‍💻 Desenvolvedor FullStack PHP & JavaScript
+ - 👨‍💻 Desenvolvedor FullStack
  - 💙 Amante da Tecnológia e Games
 
 <div>
