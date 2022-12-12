@@ -6,9 +6,11 @@
   <a href = "https://www.linkedin.com/in/mjrdev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://www.instagram.com/manoeljrgomes/" alt="Twitter Badge"/>
+  <a href = "https://www.instagram.com/manoeljrgomes">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   <a href = "https://mjrdev.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
