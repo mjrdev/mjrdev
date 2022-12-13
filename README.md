@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" align="right" width="410px"></img>
+<img src="https://media.giphy.com/media/mGbJmiNXqMTXbFWvCH/giphy.gif" align="right" width="410px"></img>
 
 # 😉 Opa, que legal você aqui!
 
@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-
  - 👨‍💻 Desenvolvedor FullStack
  - 💙 Amante da Tecnológia e Games
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="23" height="23"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="tailwind" alt="sass" width="23" height="23"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="23" height="23"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="23" height="23"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="23" height="23"/>&nbsp;
@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="23" height="23"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="23" height="23"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="23" height="23"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="23" height="23"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="sass" width="23" height="23"/>&nbsp;
 </div>
 
