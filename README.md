@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
- - 👨‍💻 Desenvolvedor FullStack
- - 💙 Amante da Tecnológia e Games
+ - 👨‍💻 Desenvolvedor FullStack <br/>
+ - 💙 Amante da Tecnológia e Games <br/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="23" height="23"/>&nbsp;
