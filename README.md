@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/gTg8ZSZMR6YAAAAM/scaler-create-impact.gif" align="right" width="410px"></img>
+<img src="https://i.giphy.com/13HgwGsXF0aiGY.gif" align="right" width="410px"></img>
 
 # 😉 Opa, que legal você aqui!
 
