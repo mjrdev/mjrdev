@@ -14,7 +14,7 @@
   </a>
 </div>
  - 👨‍💻 Desenvolvedor FullStack <br/>
- - 💙 Amante da Tecnológia e Games <br/>
+ - 💙 Muito Amor por Tecnológia e Games <br/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="23" height="23"/>&nbsp;
